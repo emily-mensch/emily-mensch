@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Behavioral ecology
+- Aquatic animal behavior 
 - Fish ecology
 - Conservation 
 
