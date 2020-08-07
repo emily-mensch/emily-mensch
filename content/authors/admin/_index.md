@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Emily Mensch 
+title: Emily L. Mensch 
 
 # Username (this should match the folder name)
 authors:
