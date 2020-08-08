@@ -62,6 +62,6 @@ user_groups:
 - Visitors
 ---
 
-I am a graduate research assistant with the Wagner Lab at Michigan State University.
+I am a graduate research assistant with the Wagner Lab at Michigan State University. I'm using applied behavioral techniques to study chemical ecology and invasive species management of the Sea Lamprey (Petromyzon marinus) in the Laurentian Great Lakes. 
 
 
