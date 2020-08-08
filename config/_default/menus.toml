@@ -18,10 +18,6 @@
   url = "#featured"
   weight = 30
 
-[[main]]
-  name = "Art"
-  url = ""
-  weight = 40
 
 [[main]]
   name = "Contact"
