@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: B.S. in Biological Sciences
+  - course: BSc in Biological Sciences, emphasis in Ecology and minor in Conservation Biology 
     institution: Colorado State University 
     year: 2016
 
@@ -61,7 +61,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
 I am a graduate research assistant with the Wagner Lab at Michigan State University. I'm using applied behavioral techniques to study chemical ecology and invasive species management of the Sea Lamprey (Petromyzon marinus) in the Laurentian Great Lakes. 
 
 
